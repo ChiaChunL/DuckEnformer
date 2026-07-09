@@ -1,0 +1,69 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+
+[project]
+name = "duck-enformer"
+version = "0.0.1"
+description = "Duck Enformer: deep learning framework for regulatory genomics in duck"
+keywords = ["Deep learning", "Enformer"]
+readme = "README.md"
+requires-python = ">=3.8"
+
+authors = [
+    { name = "Jiajun Li", email = "ChiaChun.Le@gmail.com" }
+]
+
+license = { file = "LICENSE" }
+
+dependencies = [
+    "dm-sonnet==2.0.0",
+    "kipoiseq==0.5.2",
+    "numpy==1.19.5",
+    "pandas==1.2.3",
+    "tqdm"
+]
+
+
+[project.optional-dependencies]
+dev = [
+    "ipython",
+    "ruff",
+    "pytest",
+    "pyrefly"
+]
+
+ml = [
+  "tensorflow==2.4.1",
+  "tensorflow-hub==0.11.0"
+]
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["src", "src.*"]
+
+#[tool.black]
+#line-length = 88
+#target-version = ["py38"]
+
+#[tool.isort]
+#profile = "black"
+
+[tool.ruff]
+line-length = 88
+select = ["E", "F", "I"]
+ignore = ["E501"]
+
+[tool.ruff.per-file-ignores]
+"scripts/**/*.py" = ["E402"]
+
+[tool.pyrefly]
+pythonVersion = "3.8"
+typeCheckingMode = "basic"
+
+# [tool.pytest.ini_options]
+# testpaths = ["tests"]

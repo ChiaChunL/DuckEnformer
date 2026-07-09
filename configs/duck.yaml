@@ -1,0 +1,26 @@
+model:
+  name: enformer
+  head: duck
+  channels: 1536
+  num_heads: 8
+  num_transformer_layers: 11
+  pooling_type: max
+
+train:
+  batch_size: 4
+  num_epochs: 20
+  warmup_steps: 500
+  learning_rate: 5e-4
+  clip_norm: 0.2
+  save_every_steps: 1000
+
+data:
+  organism: duck
+  dataset_root: data/processed  # relative to repo root, or set an absolute path for your setup
+  dataset_name: duck_l197k_stride50-251225
+  shuffle_buffer: 1024
+  num_threads: 8
+
+eval:
+  valid_max_steps: null
+  test_max_steps: null

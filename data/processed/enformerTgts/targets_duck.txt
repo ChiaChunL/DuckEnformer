@@ -1,0 +1,241 @@
+index	genome	identifier	file	clip	scale	sum_stat	description
+0	0	A-Cortex-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Cortex-PK29.bw	32	4	mean	ATAC-seq:Cortex |  A-Cortex-PK29 from A-cerebrum-PK29-1
+1	0	A-Cortex-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Cortex-PK32.bw	32	4	mean	ATAC-seq:Cortex |  A-Cortex-PK32 from A-PK32-Dnao-2
+2	0	A-Cerebellum-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Cerebellum-PK29.bw	32	4	mean	ATAC-seq:Cerebellum |  A-Cerebellum-PK29 from A-cerebellum-pk29-1
+3	0	A-Cerebellum-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Cerebellum-PK32.bw	32	4	mean	ATAC-seq:Cerebellum |  A-Cerebellum-PK32 from A-PK32-XN
+4	0	A-Hypothalamus-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Hypothalamus-PK29.bw	32	4	mean	ATAC-seq:Hypothalamus |  A-Hypothalamus-PK29 from A-PK29-XQN-3
+5	0	A-Hypothalamus-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Hypothalamus-PK32.bw	32	4	mean	ATAC-seq:Hypothalamus |  A-Hypothalamus-PK32 from A-pk32-XQN
+6	0	A-Retina-PK1	/path/to/data/Epigenomes/Duck/atac/bw/A-Retina-PK1.bw	32	4	mean	ATAC-seq:Retina |  A-Retina-PK1 from A-PK1-SWM-1
+7	0	A-Retina-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Retina-PK29.bw	32	4	mean	ATAC-seq:Retina |  A-Retina-PK29 from A-PK29-SWM
+8	0	A-Pituitary-PK2	/path/to/data/Epigenomes/Duck/atac/bw/A-Pituitary-PK2.bw	32	4	mean	ATAC-seq:Pituitary |  A-Pituitary-PK2 from A-PK2-CT
+9	0	A-Pituitary-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Pituitary-PK32.bw	32	4	mean	ATAC-seq:Pituitary |  A-Pituitary-PK32 from A-pk32-CT-1
+10	0	A-Adipose-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Adipose-PK29.bw	32	4	mean	ATAC-seq:Adipose |  A-Adipose-PK29 from A-PK29-PZHI
+11	0	A-Adipose-PK2	/path/to/data/Epigenomes/Duck/atac/bw/A-Adipose-PK2.bw	32	4	mean	ATAC-seq:Adipose |  A-Adipose-PK2 from A-PK2-Pzhi
+12	0	A-Muscle-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Muscle-PK29.bw	32	4	mean	ATAC-seq:Muscle |  A-Muscle-PK29 from A1-PK29-XJ-3
+13	0	A-Muscle-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Muscle-PK32.bw	32	4	mean	ATAC-seq:Muscle |  A-Muscle-PK32 from A-PK32-XJ
+14	0	A-Wing-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Wing-PK29.bw	32	4	mean	ATAC-seq:Wing |  A-Wing-PK29 from A-PK29-CB
+15	0	A-Wing-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Wing-PK32.bw	32	4	mean	ATAC-seq:Wing |  A-Wing-PK32 from A-PK32-CB
+16	0	A-Airsac-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Airsac-PK29.bw	32	4	mean	ATAC-seq:Airsac |  A-Airsac-PK29 from A-PK29-QN2
+17	0	A-Airsac-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Airsac-PK32.bw	32	4	mean	ATAC-seq:Airsac |  A-Airsac-PK32 from A-PK32-QN-1
+18	0	A-Lung-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Lung-PK29.bw	32	4	mean	ATAC-seq:Lung |  A-Lung-PK29 from A-lung-PK29-2
+19	0	A-Lung-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Lung-PK32.bw	32	4	mean	ATAC-seq:Lung |  A-Lung-PK32 from A-PK32-F-1
+20	0	A-Spleen-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Spleen-PK29.bw	32	4	mean	ATAC-seq:Spleen |  A-Spleen-PK29 from A-spleen-PK29-1
+21	0	A-Spleen-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Spleen-PK32.bw	32	4	mean	ATAC-seq:Spleen |  A-Spleen-PK32 from A-PK32-PZa-1
+22	0	A-Thymus-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Thymus-PK29.bw	32	4	mean	ATAC-seq:Thymus |  A-Thymus-PK29 from A-PK29-XX
+23	0	A-Thymus-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Thymus-PK32.bw	32	4	mean	ATAC-seq:Thymus |  A-Thymus-PK32 from A-PK32-xx-1
+24	0	A-Bursa-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Bursa-PK29.bw	32	4	mean	ATAC-seq:Bursa |  A-Bursa-PK29 from A-bursa-fabricius-PK29-2
+25	0	A-Bursa-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Bursa-PK32.bw	32	4	mean	ATAC-seq:Bursa |  A-Bursa-PK32 from A-PK32-FSN-1
+26	0	A-Ovary-ZF35	/path/to/data/Epigenomes/Duck/atac/bw/A-Ovary-ZF35.bw	32	4	mean	ATAC-seq:Ovary |  A-Ovary-ZF35 from A-ZF35-LC
+27	0	A-Ovary-ZF36	/path/to/data/Epigenomes/Duck/atac/bw/A-Ovary-ZF36.bw	32	4	mean	ATAC-seq:Ovary |  A-Ovary-ZF36 from A-ZF36-LC
+28	0	A-Magnum-ZF35	/path/to/data/Epigenomes/Duck/atac/bw/A-Magnum-ZF35.bw	32	4	mean	ATAC-seq:Magnum |  A-Magnum-ZF35 from A-ZF35-PD
+29	0	A-Magnum-ZF36	/path/to/data/Epigenomes/Duck/atac/bw/A-Magnum-ZF36.bw	32	4	mean	ATAC-seq:Magnum |  A-Magnum-ZF36 from A-ZF36-PD
+30	0	A-Uterus-ZF35	/path/to/data/Epigenomes/Duck/atac/bw/A-Uterus-ZF35.bw	32	4	mean	ATAC-seq:Uterus |  A-Uterus-ZF35 from A-ZF35-ZG
+31	0	A-Uterus-ZF36	/path/to/data/Epigenomes/Duck/atac/bw/A-Uterus-ZF36.bw	32	4	mean	ATAC-seq:Uterus |  A-Uterus-ZF36 from A-ZF36-ZG
+32	0	A-Testis-ZF31	/path/to/data/Epigenomes/Duck/atac/bw/A-Testis-ZF31.bw	32	4	mean	ATAC-seq:Testis |  A-Testis-ZF31 from A-ZF31-GW
+33	0	A-Testis-ZF32	/path/to/data/Epigenomes/Duck/atac/bw/A-Testis-ZF32.bw	32	4	mean	ATAC-seq:Testis |  A-Testis-ZF32 from A-ZF32-GW
+34	0	A-Heart-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Heart-PK29.bw	32	4	mean	ATAC-seq:Heart |  A-Heart-PK29 from A-PK29-XZ
+35	0	A-Heart-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Heart-PK32.bw	32	4	mean	ATAC-seq:Heart |  A-Heart-PK32 from A-PK32-XZ2
+36	0	A-Kidney-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Kidney-PK29.bw	32	4	mean	ATAC-seq:Kidney |  A-Kidney-PK29 from A-kidney-PK29-1
+37	0	A-Kidney-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Kidney-PK32.bw	32	4	mean	ATAC-seq:Kidney |  A-Kidney-PK32 from A-pk32-SZ-1
+38	0	A-Liver	/path/to/data/Epigenomes/Duck/atac/bw/A-Liver.bw	32	4	mean	ATAC-seq:Liver |  A-Liver from A2-GZ
+39	0	A-Liver-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Liver-PK32.bw	32	4	mean	ATAC-seq:Liver |  A-Liver-PK32 from A-PK32-GZ-2
+40	0	A-Pancreas-PK2	/path/to/data/Epigenomes/Duck/atac/bw/A-Pancreas-PK2.bw	32	4	mean	ATAC-seq:Pancreas |  A-Pancreas-PK2 from A-PK2-YX
+41	0	A-Pancreas-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Pancreas-PK32.bw	32	4	mean	ATAC-seq:Pancreas |  A-Pancreas-PK32 from A-PK32-YX
+42	0	A-Gizzard-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Gizzard-PK29.bw	32	4	mean	ATAC-seq:Gizzard |  A-Gizzard-PK29 from A-PK29-JW
+43	0	A-Gizzard-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Gizzard-PK32.bw	32	4	mean	ATAC-seq:Gizzard |  A-Gizzard-PK32 from A-PK32-JW
+44	0	A-Jejunum-PK29	/path/to/data/Epigenomes/Duck/atac/bw/A-Jejunum-PK29.bw	32	4	mean	ATAC-seq:Jejunum |  A-Jejunum-PK29 from A-PK29-KC-2
+45	0	A-Jejunum-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Jejunum-PK32.bw	32	4	mean	ATAC-seq:Jejunum |  A-Jejunum-PK32 from A-PK32-KC
+46	0	A-Cecum-PK2	/path/to/data/Epigenomes/Duck/atac/bw/A-Cecum-PK2.bw	32	4	mean	ATAC-seq:Cecum |  A-Cecum-PK2 from A-PK2-MC
+47	0	A-Cecum-PK32	/path/to/data/Epigenomes/Duck/atac/bw/A-Cecum-PK32.bw	32	4	mean	ATAC-seq:Cecum |  A-Cecum-PK32 from A-PK32-MC
+48	0	C-Cortex-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Cortex | H3K4ME3 C-Cortex-H3K4ME3-PK32 from PK32-DNao-H3K4ME3
+49	0	C-Cortex-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Cortex | H3K4ME1 C-Cortex-H3K4ME1-PK32 from PK32-DNao-H3K4ME1
+50	0	C-Cortex-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Cortex | H3K27AC C-Cortex-H3K27AC-PK32 from PK32-DNao-H3K27AC
+51	0	C-Cortex-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Cortex | H3K27ME3 C-Cortex-H3K27ME3-PK32 from PK32-DNao-H3K27ME3
+52	0	C-Cortex-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Cortex | H3K4ME3 C-Cortex-H3K4ME3-PK29 from H3K4me3-cerebrum-PK29-1
+53	0	C-Cortex-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Cortex | H3K4ME1 C-Cortex-H3K4ME1-PK29 from H3K4me1-cerebrum-PK29-1
+54	0	C-Cortex-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Cortex | H3K27AC C-Cortex-H3K27AC-PK29 from H3K27ac-cerebrum-PK29-1
+55	0	C-Cortex-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cortex-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Cortex | H3K27ME3 C-Cortex-H3K27ME3-PK29 from H3K27me3-cerebrum-PK29-1
+56	0	C-Cerebellum-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Cerebellum | H3K4ME3 C-Cerebellum-H3K4ME3-PK29 from H3K4me3-cerebellum-pk29-1
+57	0	C-Cerebellum-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Cerebellum | H3K4ME1 C-Cerebellum-H3K4ME1-PK29 from H3K4me1-cerebellum-pk29-1
+58	0	C-Cerebellum-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Cerebellum | H3K27AC C-Cerebellum-H3K27AC-PK29 from H3K27ac-cerebellum-pk29-1
+59	0	C-Cerebellum-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Cerebellum | H3K27ME3 C-Cerebellum-H3K27ME3-PK29 from H3K27me3-cerebellum-pk29-1
+60	0	C-Cerebellum-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Cerebellum | H3K4ME3 C-Cerebellum-H3K4ME3-PK32 from PK32-XN-H3K4ME3
+61	0	C-Cerebellum-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Cerebellum | H3K4ME1 C-Cerebellum-H3K4ME1-PK32 from PK32-XN-H3K4ME1
+62	0	C-Cerebellum-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Cerebellum | H3K27AC C-Cerebellum-H3K27AC-PK32 from PK32-XN-H3K27AC
+63	0	C-Cerebellum-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cerebellum-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Cerebellum | H3K27ME3 C-Cerebellum-H3K27ME3-PK32 from PK32-XN-H3K27ME3
+64	0	C-Hypothalamus-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Hypothalamus | H3K4ME3 C-Hypothalamus-H3K4ME3-PK29 from PK29-XQN-H3K4ME3-3
+65	0	C-Hypothalamus-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Hypothalamus | H3K4ME1 C-Hypothalamus-H3K4ME1-PK29 from PK29-XQN-H3K4ME1-3
+66	0	C-Hypothalamus-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Hypothalamus | H3K27AC C-Hypothalamus-H3K27AC-PK29 from PK29-XQN-H3K27AC-3
+67	0	C-Hypothalamus-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Hypothalamus | H3K27ME3 C-Hypothalamus-H3K27ME3-PK29 from PK29-XQN--H3K27ME3-3
+68	0	C-Hypothalamus-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Hypothalamus | H3K4ME3 C-Hypothalamus-H3K4ME3-PK32 from PK32-XQN-H3K4ME3
+69	0	C-Hypothalamus-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Hypothalamus | H3K4ME1 C-Hypothalamus-H3K4ME1-PK32 from PK32-XQN-H3K4ME1
+70	0	C-Hypothalamus-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Hypothalamus | H3K27AC C-Hypothalamus-H3K27AC-PK32 from PK32-XQN-H3K27AC
+71	0	C-Hypothalamus-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Hypothalamus-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Hypothalamus | H3K27ME3 C-Hypothalamus-H3K27ME3-PK32 from PK32-XQN-H3K27ME3
+72	0	C-Retina-H3K4ME3-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K4ME3-PK1.bw	32	2	mean	CUT&TAG:Retina | H3K4ME3 C-Retina-H3K4ME3-PK1 from PK1-SWM-H3K4ME3
+73	0	C-Retina-H3K4ME1-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K4ME1-PK1.bw	32	2	mean	CUT&TAG:Retina | H3K4ME1 C-Retina-H3K4ME1-PK1 from PK1-SWM-H3K4ME1
+74	0	C-Retina-H3K27AC-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K27AC-PK1.bw	32	2	mean	CUT&TAG:Retina | H3K27AC C-Retina-H3K27AC-PK1 from PK1-SWM-H3K27AC
+75	0	C-Retina-H3K27ME3-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K27ME3-PK1.bw	64	1	sum	CUT&TAG:Retina | H3K27ME3 C-Retina-H3K27ME3-PK1 from PK1-SWM-H3K27ME3
+76	0	C-Retina-H3K4ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K4ME3-PK2.bw	32	2	mean	CUT&TAG:Retina | H3K4ME3 C-Retina-H3K4ME3-PK2 from PK2-SWM-H3K4ME3
+77	0	C-Retina-H3K4ME1-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K4ME1-PK2.bw	32	2	mean	CUT&TAG:Retina | H3K4ME1 C-Retina-H3K4ME1-PK2 from PK2-SWM-H3K4ME1
+78	0	C-Retina-H3K27AC-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K27AC-PK2.bw	32	2	mean	CUT&TAG:Retina | H3K27AC C-Retina-H3K27AC-PK2 from PK2-SWM-H3K27AC
+79	0	C-Retina-H3K27ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Retina-H3K27ME3-PK2.bw	64	1	sum	CUT&TAG:Retina | H3K27ME3 C-Retina-H3K27ME3-PK2 from PK2-SWM-H3K27ME3
+80	0	C-Pituitary-H3K4ME3-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K4ME3-PK1.bw	32	2	mean	CUT&TAG:Pituitary | H3K4ME3 C-Pituitary-H3K4ME3-PK1 from PK1-CT-H3K4ME3
+81	0	C-Pituitary-H3K4ME1-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K4ME1-PK1.bw	32	2	mean	CUT&TAG:Pituitary | H3K4ME1 C-Pituitary-H3K4ME1-PK1 from PK1-CT-H3K4ME1
+82	0	C-Pituitary-H3K27AC-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K27AC-PK1.bw	32	2	mean	CUT&TAG:Pituitary | H3K27AC C-Pituitary-H3K27AC-PK1 from PK1-CT-H3K27AC
+83	0	C-Pituitary-H3K27ME3-PK1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K27ME3-PK1.bw	64	1	sum	CUT&TAG:Pituitary | H3K27ME3 C-Pituitary-H3K27ME3-PK1 from PK1-CT-H3K27ME3
+84	0	C-Pituitary-H3K4ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K4ME3-PK2.bw	32	2	mean	CUT&TAG:Pituitary | H3K4ME3 C-Pituitary-H3K4ME3-PK2 from PK2-CT-H3K4ME3
+85	0	C-Pituitary-H3K4ME1-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K4ME1-PK2.bw	32	2	mean	CUT&TAG:Pituitary | H3K4ME1 C-Pituitary-H3K4ME1-PK2 from PK2-CT-H3K4ME1
+86	0	C-Pituitary-H3K27AC-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K27AC-PK2.bw	32	2	mean	CUT&TAG:Pituitary | H3K27AC C-Pituitary-H3K27AC-PK2 from PK2-CT-H3K27AC
+87	0	C-Pituitary-H3K27ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pituitary-H3K27ME3-PK2.bw	64	1	sum	CUT&TAG:Pituitary | H3K27ME3 C-Pituitary-H3K27ME3-PK2 from PK2-CT-H3K27ME3
+88	0	C-Adipose-H3K4ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K4ME3-PK2.bw	32	2	mean	CUT&TAG:Adipose | H3K4ME3 C-Adipose-H3K4ME3-PK2 from PK2-PZhi-H3K4ME3
+89	0	C-Adipose-H3K4ME1-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K4ME1-PK2.bw	32	2	mean	CUT&TAG:Adipose | H3K4ME1 C-Adipose-H3K4ME1-PK2 from PK2-PZhi-H3K4ME1
+90	0	C-Adipose-H3K27AC-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K27AC-PK2.bw	32	2	mean	CUT&TAG:Adipose | H3K27AC C-Adipose-H3K27AC-PK2 from PK2-PZhi-H3K27AC
+91	0	C-Adipose-H3K27ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K27ME3-PK2.bw	64	1	sum	CUT&TAG:Adipose | H3K27ME3 C-Adipose-H3K27ME3-PK2 from PK2-PZhi-H3K27ME3
+92	0	C-Adipose-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Adipose | H3K4ME3 C-Adipose-H3K4ME3-PK29 from H3K4me3-subcutaneous-fat-PK29-1
+93	0	C-Adipose-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Adipose | H3K4ME1 C-Adipose-H3K4ME1-PK32 from PK32-PZhi-H3K4ME1
+94	0	C-Adipose-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Adipose | H3K27AC C-Adipose-H3K27AC-PK32 from PK32-PZhi-H3K27AC
+95	0	C-Adipose-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Adipose-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Adipose | H3K27ME3 C-Adipose-H3K27ME3-PK32 from PK32-PZhi-H3K27ME3
+96	0	C-Muscle-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Muscle | H3K4ME3 C-Muscle-H3K4ME3-PK29 from PK29-XJ-H3K4ME3
+97	0	C-Muscle-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Muscle | H3K4ME1 C-Muscle-H3K4ME1-PK29 from PK29-XJ-H3K4ME1
+98	0	C-Muscle-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Muscle | H3K27AC C-Muscle-H3K27AC-PK29 from PK29-XJ-H3K27AC
+99	0	C-Muscle-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Muscle | H3K27ME3 C-Muscle-H3K27ME3-PK29 from PK29-XJ-H3K27ME3
+100	0	C-Muscle-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Muscle | H3K4ME3 C-Muscle-H3K4ME3-PK32 from PK32-XJ-H3K4ME3
+101	0	C-Muscle-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Muscle | H3K4ME1 C-Muscle-H3K4ME1-PK32 from PK32-XJ-H3K4ME1
+102	0	C-Muscle-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Muscle | H3K27AC C-Muscle-H3K27AC-PK32 from PK32-XJ-H3K27AC
+103	0	C-Muscle-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Muscle-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Muscle | H3K27ME3 C-Muscle-H3K27ME3-PK32 from PK32-XJ-H3K27ME3
+104	0	C-Wing-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Wing | H3K4ME3 C-Wing-H3K4ME3-PK29 from PK29-CB-H3K4ME3
+105	0	C-Wing-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Wing | H3K4ME1 C-Wing-H3K4ME1-PK29 from PK29-CB-H3K4ME1
+106	0	C-Wing-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Wing | H3K27AC C-Wing-H3K27AC-PK29 from PK29-CB-H3K27AC
+107	0	C-Wing-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Wing | H3K27ME3 C-Wing-H3K27ME3-PK29 from PK29-CB-H3K27ME3
+108	0	C-Wing-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Wing | H3K4ME3 C-Wing-H3K4ME3-PK32 from PK32-CB-H3K4ME3
+109	0	C-Wing-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Wing | H3K4ME1 C-Wing-H3K4ME1-PK32 from PK32-CB-H3K4ME1
+110	0	C-Wing-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Wing | H3K27AC C-Wing-H3K27AC-PK32 from PK32-CB-H3K27AC
+111	0	C-Wing-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Wing-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Wing | H3K27ME3 C-Wing-H3K27ME3-PK32 from PK32-CB-H3K27ME3
+112	0	C-Airsac-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Airsac | H3K4ME3 C-Airsac-H3K4ME3-PK29 from PK29-QN-H3K4ME3
+113	0	C-Airsac-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Airsac | H3K4ME1 C-Airsac-H3K4ME1-PK29 from PK29-QN-H3K4ME1
+114	0	C-Airsac-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Airsac | H3K27AC C-Airsac-H3K27AC-PK29 from PK29-QN-H3K27AC
+115	0	C-Airsac-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Airsac | H3K27ME3 C-Airsac-H3K27ME3-PK29 from PK29-QN-H3K27ME3
+116	0	C-Airsac-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Airsac | H3K4ME3 C-Airsac-H3K4ME3-PK32 from PK32-QN-H3K4ME3
+117	0	C-Airsac-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Airsac | H3K4ME1 C-Airsac-H3K4ME1-PK32 from PK32-QN-H3K4ME1
+118	0	C-Airsac-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Airsac | H3K27AC C-Airsac-H3K27AC-PK32 from PK32-QN-H3K27AC
+119	0	C-Airsac-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Airsac-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Airsac | H3K27ME3 C-Airsac-H3K27ME3-PK32 from PK32-QN-H3K27ME3
+120	0	C-Lung-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Lung | H3K4ME3 C-Lung-H3K4ME3-PK29 from H3K4me3-lung-PK29-1
+121	0	C-Lung-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Lung | H3K4ME1 C-Lung-H3K4ME1-PK29 from H3K4me1-lung-PK29-1
+122	0	C-Lung-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Lung | H3K27AC C-Lung-H3K27AC-PK29 from H3K27ac-lung-PK29-1
+123	0	C-Lung-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Lung | H3K27ME3 C-Lung-H3K27ME3-PK29 from H3K27me3-lung-PK29-1
+124	0	C-Lung-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Lung | H3K4ME3 C-Lung-H3K4ME3-PK32 from PK32-F-H3K4ME3
+125	0	C-Lung-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Lung | H3K4ME1 C-Lung-H3K4ME1-PK32 from PK32-F-H3K4ME1
+126	0	C-Lung-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Lung | H3K27AC C-Lung-H3K27AC-PK32 from PK32-F-H3K27AC
+127	0	C-Lung-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Lung-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Lung | H3K27ME3 C-Lung-H3K27ME3-PK32 from PK32-F-H3K27ME3
+128	0	C-Spleen-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Spleen | H3K4ME3 C-Spleen-H3K4ME3-PK29 from H3K4me3-spleen-PK29-1
+129	0	C-Spleen-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Spleen | H3K4ME1 C-Spleen-H3K4ME1-PK29 from H3K4me1-spleen-PK29-1
+130	0	C-Spleen-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Spleen | H3K27AC C-Spleen-H3K27AC-PK29 from H3K27ac-spleen-PK29-1
+131	0	C-Spleen-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Spleen | H3K27ME3 C-Spleen-H3K27ME3-PK29 from H3K27me3-spleen-PK29-1
+132	0	C-Spleen-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Spleen | H3K4ME3 C-Spleen-H3K4ME3-PK32 from PK32-PZa-H3K4ME3
+133	0	C-Spleen-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Spleen | H3K4ME1 C-Spleen-H3K4ME1-PK32 from PK32-PZa-H3K4ME1
+134	0	C-Spleen-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Spleen | H3K27AC C-Spleen-H3K27AC-PK32 from PK32-PZa-H3K27AC
+135	0	C-Spleen-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Spleen-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Spleen | H3K27ME3 C-Spleen-H3K27ME3-PK32 from PK32-PZa-H3K27ME3
+136	0	C-Thymus-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Thymus | H3K4ME3 C-Thymus-H3K4ME3-PK29 from PK29-XX-H3K4ME3
+137	0	C-Thymus-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Thymus | H3K4ME1 C-Thymus-H3K4ME1-PK29 from PK29-XX-H3K4ME1
+138	0	C-Thymus-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Thymus | H3K27AC C-Thymus-H3K27AC-PK29 from PK29-XX-H3K27AC
+139	0	C-Thymus-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Thymus | H3K27ME3 C-Thymus-H3K27ME3-PK29 from PK29-XX-H3K27ME3
+140	0	C-Thymus-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Thymus | H3K4ME3 C-Thymus-H3K4ME3-PK32 from PK32-XX-H3K4ME3
+141	0	C-Thymus-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Thymus | H3K4ME1 C-Thymus-H3K4ME1-PK32 from PK32-XX-H3K4ME1
+142	0	C-Thymus-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Thymus | H3K27AC C-Thymus-H3K27AC-PK32 from PK32-XX-H3K27AC
+143	0	C-Thymus-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Thymus-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Thymus | H3K27ME3 C-Thymus-H3K27ME3-PK32 from PK32-XX-H3K27ME3
+144	0	C-Bursa-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Bursa | H3K4ME3 C-Bursa-H3K4ME3-PK29 from H3K4me3-bursa-fabricius-PK29-1
+145	0	C-Bursa-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Bursa | H3K4ME1 C-Bursa-H3K4ME1-PK29 from H3K4me1-bursa-fabricius-PK29-1
+146	0	C-Bursa-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Bursa | H3K27AC C-Bursa-H3K27AC-PK29 from H3K27ac-bursa-fabricius-PK29-1
+147	0	C-Bursa-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Bursa | H3K27ME3 C-Bursa-H3K27ME3-PK29 from H3K27me3-bursa-fabricius-PK29-1
+148	0	C-Bursa-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Bursa | H3K4ME3 C-Bursa-H3K4ME3-PK32 from PK32-FSN-H3K4ME3
+149	0	C-Bursa-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Bursa | H3K4ME1 C-Bursa-H3K4ME1-PK32 from PK32-FSN-H3K4ME1
+150	0	C-Bursa-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Bursa | H3K27AC C-Bursa-H3K27AC-PK32 from PK32-FSN-H3K27AC
+151	0	C-Bursa-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Bursa-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Bursa | H3K27ME3 C-Bursa-H3K27ME3-PK32 from PK32-FSN-H3K27ME3
+152	0	C-Ovary-H3K4ME3-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K4ME3-ZF35.bw	32	2	mean	CUT&TAG:Ovary | H3K4ME3 C-Ovary-H3K4ME3-ZF35 from ZF35-LC-H3K4ME3
+153	0	C-Ovary-H3K4ME1-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K4ME1-ZF35.bw	32	2	mean	CUT&TAG:Ovary | H3K4ME1 C-Ovary-H3K4ME1-ZF35 from ZF35-LC-H3K4ME1
+154	0	C-Ovary-H3K27AC-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K27AC-ZF35.bw	32	2	mean	CUT&TAG:Ovary | H3K27AC C-Ovary-H3K27AC-ZF35 from ZF35-LC-H3K27AC
+155	0	C-Ovary-H3K27ME3-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K27ME3-ZF35.bw	64	1	sum	CUT&TAG:Ovary | H3K27ME3 C-Ovary-H3K27ME3-ZF35 from ZF35-LC-H3K27ME3
+156	0	C-Ovary-H3K4ME3-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K4ME3-ZF36.bw	32	2	mean	CUT&TAG:Ovary | H3K4ME3 C-Ovary-H3K4ME3-ZF36 from ZF36-LC-H3K4ME3
+157	0	C-Ovary-H3K4ME1-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K4ME1-ZF36.bw	32	2	mean	CUT&TAG:Ovary | H3K4ME1 C-Ovary-H3K4ME1-ZF36 from ZF36-LC-H3K4ME1
+158	0	C-Ovary-H3K27AC-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K27AC-ZF36.bw	32	2	mean	CUT&TAG:Ovary | H3K27AC C-Ovary-H3K27AC-ZF36 from ZF36-LC-H3K27AC
+159	0	C-Ovary-H3K27ME3-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Ovary-H3K27ME3-ZF36.bw	64	1	sum	CUT&TAG:Ovary | H3K27ME3 C-Ovary-H3K27ME3-ZF36 from ZF36-LC--H3K27ME3
+160	0	C-Magnum-H3K4ME3-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K4ME3-ZF35.bw	32	2	mean	CUT&TAG:Magnum | H3K4ME3 C-Magnum-H3K4ME3-ZF35 from ZF35-PD-H3K4ME3
+161	0	C-Magnum-H3K4ME1-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K4ME1-ZF35.bw	32	2	mean	CUT&TAG:Magnum | H3K4ME1 C-Magnum-H3K4ME1-ZF35 from ZF35-PD-H3K4ME1
+162	0	C-Magnum-H3K27AC-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K27AC-ZF35.bw	32	2	mean	CUT&TAG:Magnum | H3K27AC C-Magnum-H3K27AC-ZF35 from ZF35-PD-H3K27AC
+163	0	C-Magnum-H3K27ME3-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K27ME3-ZF35.bw	64	1	sum	CUT&TAG:Magnum | H3K27ME3 C-Magnum-H3K27ME3-ZF35 from ZF35-PD-H3K27ME3
+164	0	C-Magnum-H3K4ME3-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K4ME3-ZF36.bw	32	2	mean	CUT&TAG:Magnum | H3K4ME3 C-Magnum-H3K4ME3-ZF36 from ZF36-PD-H3K4ME3
+165	0	C-Magnum-H3K4ME1-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K4ME1-ZF36.bw	32	2	mean	CUT&TAG:Magnum | H3K4ME1 C-Magnum-H3K4ME1-ZF36 from ZF36-PD-H3K4ME1
+166	0	C-Magnum-H3K27AC-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K27AC-ZF36.bw	32	2	mean	CUT&TAG:Magnum | H3K27AC C-Magnum-H3K27AC-ZF36 from ZF36-PD-H3K27AC
+167	0	C-Magnum-H3K27ME3-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Magnum-H3K27ME3-ZF36.bw	64	1	sum	CUT&TAG:Magnum | H3K27ME3 C-Magnum-H3K27ME3-ZF36 from ZF36-PD--H3K27ME3
+168	0	C-Uterus-H3K4ME3-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K4ME3-ZF35.bw	32	2	mean	CUT&TAG:Uterus | H3K4ME3 C-Uterus-H3K4ME3-ZF35 from ZF35-ZG-H3K4ME3
+169	0	C-Uterus-H3K4ME1-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K4ME1-ZF35.bw	32	2	mean	CUT&TAG:Uterus | H3K4ME1 C-Uterus-H3K4ME1-ZF35 from ZF35-ZG-H3K4ME1
+170	0	C-Uterus-H3K27AC-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K27AC-ZF35.bw	32	2	mean	CUT&TAG:Uterus | H3K27AC C-Uterus-H3K27AC-ZF35 from ZF35-ZG-H3K27AC
+171	0	C-Uterus-H3K27ME3-ZF35	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K27ME3-ZF35.bw	64	1	sum	CUT&TAG:Uterus | H3K27ME3 C-Uterus-H3K27ME3-ZF35 from ZF35-ZG-H3K27ME3
+172	0	C-Uterus-H3K4ME3-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K4ME3-ZF36.bw	32	2	mean	CUT&TAG:Uterus | H3K4ME3 C-Uterus-H3K4ME3-ZF36 from ZF36-ZG-H3K4ME3
+173	0	C-Uterus-H3K4ME1-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K4ME1-ZF36.bw	32	2	mean	CUT&TAG:Uterus | H3K4ME1 C-Uterus-H3K4ME1-ZF36 from ZF36-ZG-H3K4ME1
+174	0	C-Uterus-H3K27AC-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K27AC-ZF36.bw	32	2	mean	CUT&TAG:Uterus | H3K27AC C-Uterus-H3K27AC-ZF36 from ZF36-ZG-H3K27AC
+175	0	C-Uterus-H3K27ME3-ZF36	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Uterus-H3K27ME3-ZF36.bw	64	1	sum	CUT&TAG:Uterus | H3K27ME3 C-Uterus-H3K27ME3-ZF36 from ZF36-ZG--H3K27ME3
+176	0	C-Testis-H3K4ME3-ZF31	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K4ME3-ZF31.bw	32	2	mean	CUT&TAG:Testis | H3K4ME3 C-Testis-H3K4ME3-ZF31 from ZF31-GW-H3K4ME3
+177	0	C-Testis-H3K4ME1-ZF31	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K4ME1-ZF31.bw	32	2	mean	CUT&TAG:Testis | H3K4ME1 C-Testis-H3K4ME1-ZF31 from ZF31-GW-H3K4ME1
+178	0	C-Testis-H3K27AC-ZF31	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K27AC-ZF31.bw	32	2	mean	CUT&TAG:Testis | H3K27AC C-Testis-H3K27AC-ZF31 from ZF31-GW-H3K27AC
+179	0	C-Testis-H3K27ME3-ZF31	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K27ME3-ZF31.bw	64	1	sum	CUT&TAG:Testis | H3K27ME3 C-Testis-H3K27ME3-ZF31 from ZF31-GW-H3K27ME3
+180	0	C-Testis-H3K4ME3-ZF32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K4ME3-ZF32.bw	32	2	mean	CUT&TAG:Testis | H3K4ME3 C-Testis-H3K4ME3-ZF32 from ZF32-GW-H3K4ME3
+181	0	C-Testis-H3K4ME1-ZF32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K4ME1-ZF32.bw	32	2	mean	CUT&TAG:Testis | H3K4ME1 C-Testis-H3K4ME1-ZF32 from ZF32-GW-H3K4ME1
+182	0	C-Testis-H3K27AC-ZF32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K27AC-ZF32.bw	32	2	mean	CUT&TAG:Testis | H3K27AC C-Testis-H3K27AC-ZF32 from ZF32-GW-H3K27AC
+183	0	C-Testis-H3K27ME3-ZF32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Testis-H3K27ME3-ZF32.bw	64	1	sum	CUT&TAG:Testis | H3K27ME3 C-Testis-H3K27ME3-ZF32 from ZF32-GW-H3K27ME3
+184	0	C-Heart-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Heart | H3K4ME3 C-Heart-H3K4ME3-PK29 from PK29-XZ-H3K4ME3-2
+185	0	C-Heart-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Heart | H3K4ME1 C-Heart-H3K4ME1-PK29 from PK29-XZ-H3K4ME1-2
+186	0	C-Heart-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Heart | H3K27AC C-Heart-H3K27AC-PK29 from PK29-XZ-H3K27AC-2
+187	0	C-Heart-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Heart | H3K27ME3 C-Heart-H3K27ME3-PK29 from PK29-XZ--H3K27ME3-2
+188	0	C-Heart-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Heart | H3K4ME3 C-Heart-H3K4ME3-PK32 from PK32-XZ-H3K4ME3
+189	0	C-Heart-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Heart | H3K4ME1 C-Heart-H3K4ME1-PK32 from PK32-XZ-H3K4ME1
+190	0	C-Heart-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Heart | H3K27AC C-Heart-H3K27AC-PK32 from PK32-XZ-H3K27AC
+191	0	C-Heart-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Heart-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Heart | H3K27ME3 C-Heart-H3K27ME3-PK32 from PK32-XZ-H3K27ME3
+192	0	C-Kidney-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Kidney | H3K4ME3 C-Kidney-H3K4ME3-PK29 from H3K4me3-kidney-PK29-1
+193	0	C-Kidney-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Kidney | H3K4ME1 C-Kidney-H3K4ME1-PK29 from H3K4me1-kidney-PK29-1
+194	0	C-Kidney-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Kidney | H3K27AC C-Kidney-H3K27AC-PK29 from H3K27ac-kidney-PK29-1
+195	0	C-Kidney-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Kidney | H3K27ME3 C-Kidney-H3K27ME3-PK29 from H3K27me3-kidney-PK29-1
+196	0	C-Kidney-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Kidney | H3K4ME3 C-Kidney-H3K4ME3-PK32 from PK32-SZ-H3K4ME3
+197	0	C-Kidney-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Kidney | H3K4ME1 C-Kidney-H3K4ME1-PK32 from PK32-SZ-H3K4ME1
+198	0	C-Kidney-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Kidney | H3K27AC C-Kidney-H3K27AC-PK32 from PK32-SZ-H3K27AC
+199	0	C-Kidney-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Kidney-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Kidney | H3K27ME3 C-Kidney-H3K27ME3-PK32 from PK32-SZ-H3K27ME3
+200	0	C-Liver-H3K4ME3-C1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K4ME3-C1.bw	32	2	mean	CUT&TAG:Liver | H3K4ME3 C-Liver-H3K4ME3-C1 from C1-H3K4ME3-GZ
+201	0	C-Liver-H3K4ME1-C2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K4ME1-C2.bw	32	2	mean	CUT&TAG:Liver | H3K4ME1 C-Liver-H3K4ME1-C2 from C2-H3K4ME1-GZ
+202	0	C-Liver-H3K27AC-B1	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K27AC-B1.bw	32	2	mean	CUT&TAG:Liver | H3K27AC C-Liver-H3K27AC-B1 from H3K27ac-liver-B1
+203	0	C-Liver-H3K27ME3-C4	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K27ME3-C4.bw	64	1	sum	CUT&TAG:Liver | H3K27ME3 C-Liver-H3K27ME3-C4 from C4-H3K27ME3-GZ
+204	0	C-Liver-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Liver | H3K4ME3 C-Liver-H3K4ME3-PK32 from PK32-GZ-H3K4ME3
+205	0	C-Liver-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Liver | H3K4ME1 C-Liver-H3K4ME1-PK32 from PK32-GZ-H3K4ME1
+206	0	C-Liver-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Liver | H3K27AC C-Liver-H3K27AC-PK32 from PK32-GZ-H3K27AC
+207	0	C-Liver-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Liver-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Liver | H3K27ME3 C-Liver-H3K27ME3-PK32 from PK32-GZ-H3K27ME3
+208	0	C-Pancreas-H3K4ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K4ME3-PK2.bw	32	2	mean	CUT&TAG:Pancreas | H3K4ME3 C-Pancreas-H3K4ME3-PK2 from PK2-YX-H3K4ME3
+209	0	C-Pancreas-H3K4ME1-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K4ME1-PK2.bw	32	2	mean	CUT&TAG:Pancreas | H3K4ME1 C-Pancreas-H3K4ME1-PK2 from PK2-YX-H3K4ME1
+210	0	C-Pancreas-H3K27AC-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K27AC-PK2.bw	32	2	mean	CUT&TAG:Pancreas | H3K27AC C-Pancreas-H3K27AC-PK2 from PK2-YX-H3K27AC
+211	0	C-Pancreas-H3K27ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K27ME3-PK2.bw	64	1	sum	CUT&TAG:Pancreas | H3K27ME3 C-Pancreas-H3K27ME3-PK2 from PK2-YX-H3K27ME3
+212	0	C-Pancreas-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Pancreas | H3K4ME3 C-Pancreas-H3K4ME3-PK32 from PK32-YX-H3K4ME3
+213	0	C-Pancreas-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Pancreas | H3K4ME1 C-Pancreas-H3K4ME1-PK32 from PK32-YX-H3K4ME1
+214	0	C-Pancreas-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Pancreas | H3K27AC C-Pancreas-H3K27AC-PK32 from PK32-YX-H3K27AC
+215	0	C-Pancreas-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Pancreas-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Pancreas | H3K27ME3 C-Pancreas-H3K27ME3-PK32 from PK32-YX-H3K27ME3
+216	0	C-Gizzard-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Gizzard | H3K4ME3 C-Gizzard-H3K4ME3-PK29 from PK29-JW-H3K4ME3
+217	0	C-Gizzard-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Gizzard | H3K4ME1 C-Gizzard-H3K4ME1-PK29 from PK29-JW-H3K4ME1
+218	0	C-Gizzard-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Gizzard | H3K27AC C-Gizzard-H3K27AC-PK29 from PK29-JW-H3K27AC
+219	0	C-Gizzard-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Gizzard | H3K27ME3 C-Gizzard-H3K27ME3-PK29 from PK29-JW-H3K27ME3
+220	0	C-Gizzard-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Gizzard | H3K4ME3 C-Gizzard-H3K4ME3-PK32 from PK32-JW-H3K4ME3
+221	0	C-Gizzard-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Gizzard | H3K4ME1 C-Gizzard-H3K4ME1-PK32 from PK32-JW-H3K4ME1
+222	0	C-Gizzard-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Gizzard | H3K27AC C-Gizzard-H3K27AC-PK32 from PK32-JW-H3K27AC
+223	0	C-Gizzard-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Gizzard-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Gizzard | H3K27ME3 C-Gizzard-H3K27ME3-PK32 from PK32-JW-H3K27ME3
+224	0	C-Jejunum-H3K4ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K4ME3-PK29.bw	32	2	mean	CUT&TAG:Jejunum | H3K4ME3 C-Jejunum-H3K4ME3-PK29 from PK29-KC-H3K4ME3
+225	0	C-Jejunum-H3K4ME1-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K4ME1-PK29.bw	32	2	mean	CUT&TAG:Jejunum | H3K4ME1 C-Jejunum-H3K4ME1-PK29 from PK29-KC-H3K4ME1
+226	0	C-Jejunum-H3K27AC-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K27AC-PK29.bw	32	2	mean	CUT&TAG:Jejunum | H3K27AC C-Jejunum-H3K27AC-PK29 from PK29-KC-H3K27AC
+227	0	C-Jejunum-H3K27ME3-PK29	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K27ME3-PK29.bw	64	1	sum	CUT&TAG:Jejunum | H3K27ME3 C-Jejunum-H3K27ME3-PK29 from PK29-KC-H3K27ME3
+228	0	C-Jejunum-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Jejunum | H3K4ME3 C-Jejunum-H3K4ME3-PK32 from PK32-KC-H3K4ME3
+229	0	C-Jejunum-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Jejunum | H3K4ME1 C-Jejunum-H3K4ME1-PK32 from PK32-KC-H3K4ME1
+230	0	C-Jejunum-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Jejunum | H3K27AC C-Jejunum-H3K27AC-PK32 from PK32-KC-H3K27AC
+231	0	C-Jejunum-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Jejunum-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Jejunum | H3K27ME3 C-Jejunum-H3K27ME3-PK32 from PK32-KC-H3K27ME3
+232	0	C-Cecum-H3K4ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K4ME3-PK2.bw	32	2	mean	CUT&TAG:Cecum | H3K4ME3 C-Cecum-H3K4ME3-PK2 from PK2-MC-H3K4ME3
+233	0	C-Cecum-H3K4ME1-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K4ME1-PK2.bw	32	2	mean	CUT&TAG:Cecum | H3K4ME1 C-Cecum-H3K4ME1-PK2 from PK2-MC-H3K4ME1
+234	0	C-Cecum-H3K27AC-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K27AC-PK2.bw	32	2	mean	CUT&TAG:Cecum | H3K27AC C-Cecum-H3K27AC-PK2 from PK2-MC-H3K27AC
+235	0	C-Cecum-H3K27ME3-PK2	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K27ME3-PK2.bw	64	1	sum	CUT&TAG:Cecum | H3K27ME3 C-Cecum-H3K27ME3-PK2 from PK2-MC-H3K27ME3
+236	0	C-Cecum-H3K4ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K4ME3-PK32.bw	32	2	mean	CUT&TAG:Cecum | H3K4ME3 C-Cecum-H3K4ME3-PK32 from PK32-MC-H3K4ME3
+237	0	C-Cecum-H3K4ME1-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K4ME1-PK32.bw	32	2	mean	CUT&TAG:Cecum | H3K4ME1 C-Cecum-H3K4ME1-PK32 from PK32-MC-H3K4ME1
+238	0	C-Cecum-H3K27AC-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K27AC-PK32.bw	32	2	mean	CUT&TAG:Cecum | H3K27AC C-Cecum-H3K27AC-PK32 from PK32-MC-H3K27AC
+239	0	C-Cecum-H3K27ME3-PK32	/path/to/data/Epigenomes/Duck/cuttag/bw/C-Cecum-H3K27ME3-PK32.bw	64	1	sum	CUT&TAG:Cecum | H3K27ME3 C-Cecum-H3K27ME3-PK32 from PK32-MC-H3K27ME3

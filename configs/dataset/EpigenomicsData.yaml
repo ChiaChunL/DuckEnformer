@@ -1,0 +1,17 @@
+# Paths below point to raw sequencing data that is not distributed in this
+# repository (see the Data availability statement). Update them to your
+# local copy before running the data preparation scripts.
+detail:
+  csv: data/raw/DuckEpigenomics.csv
+
+ATAC-seq:
+  bw: /path/to/Epigenomes/Duck/atac/bw
+  bam: /path/to/Epigenomes/Duck/atac/bam
+
+CUT&TAG:
+  bw: /path/to/Epigenomes/Duck/cuttag/bw
+  bam: /path/to/Epigenomes/Duck/cuttag/bam
+
+genome:
+  fa: /path/to/Genomes/Duck/Anas_platyrhynchos.ASM874695v1.112.dna.toplevel.fa
+  gtf: /path/to/Genomes/Duck/Anas_platyrhynchos.ASM874695v1.112.gtf
